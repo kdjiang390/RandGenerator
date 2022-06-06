@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/41249401/difference-between-pip-freeze-and-conda-list
+
+freeze conda env and generate a file.
+
+other users can use it to rebuild environment in another machine.

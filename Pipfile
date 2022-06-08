@@ -9,6 +9,9 @@ ipykernel = "*"
 pandas = "==1.2.3"
 streamlit = "==1.10.0"
 protobuf = "~=3.19.0"
+virtualenv = "*"
+virtualenvwrapper = "*"
+streamlit-option-menu = "*"
 
 [dev-packages]
 

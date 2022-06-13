@@ -12,6 +12,7 @@ protobuf = "~=3.19.0"
 virtualenv = "*"
 virtualenvwrapper = "*"
 streamlit-option-menu = "*"
+pipreqs = "*"
 
 [dev-packages]
 
